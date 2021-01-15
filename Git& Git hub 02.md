@@ -84,22 +84,6 @@ GUI(그래픽 유저 인터페이스)방식으로 쉽게 사용할 수 있게 �
 https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221041215416&proxyReferer=https:%2F%2Fwww.google.com%2F
 
  
-## 3. 마크다운(Markdown)을 이용한 Readme.md 파일 작성하기
-README.md 란?
-깃허브에서 각 저장소 생성시 프로젝트에 대한 설명을 적는 마크다운 언어 파일입니다. 예) 프로젝트 설명, 기능, 사용방법, 라이선스 정보 등을 적을 수 있습니다.
-
-
-### 링크 (참고) : 
-https://www.youtube.com/watch?v=MFJIOqxK6k8
-https://jhhwang4195.tistory.com/35
-https://gist.github.com/ninanung/946cd0e2e09bd5a94964ff8b612a9012
-
-
-### 샘플 : 
-https://github.com/git/git/blob/master/README.md
-https://github.com/KennethanCeyer/tutorial-git/blob/master/README.md
-
-
 
 
 
