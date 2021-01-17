@@ -1,5 +1,5 @@
 
-3. 마크다운(Markdown)을 이용한 Readme.md 파일 작성하기
+# 3. 마크다운(Markdown)을 이용한 Readme.md 파일 작성하기
 
 영상 링크: https://www.youtube.com/watch?v=dUbp9wAy178 
 
